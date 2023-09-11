@@ -5,3 +5,5 @@ NPM     : 2206814040
 Kelas   : PBP C
 
 Jurusan : FK
+
+Hobi    : dagang
